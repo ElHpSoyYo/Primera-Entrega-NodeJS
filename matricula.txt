@@ -1,0 +1,3 @@
+El estudiante: Esteban 
+Con cedula: 10000
+ Se ha matriculado en Seducción en ambientes no controlados, Seducción en ambientes no controlados tiene una duracion 100 horas y un valor de 70
